@@ -13,6 +13,10 @@ using System.Media;
 
 namespace spaceRace
 {
+    //Alistair Krieck
+    //Space Race :)
+    //2024 / 01 / 08
+    //I dont know what else goes here :/
     public partial class spaceRace : Form
     {
         Bitmap image = new Bitmap(@"C:\Users\aliskrie701\Downloads\Comp Sci\spaceRace\spaceRace\Resources\kaboom.png");
